@@ -16,16 +16,19 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/PrashantPKP/Random-choice-Picker-using-javascript.git
+```
 
 ### Navigate to the project directory:
 
 ```bash
 cd Random-choice-Picker-using-javascript
+```
 
 ### Open index.html in your browser:
 
 ```bash
 open index.html
+```
 
 ### **Usage**
 Open the project in your browser.
@@ -39,11 +42,11 @@ Click the "Pick a Choice" button to randomly select one of the choices.
 Contributing
 If you would like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+    Fork the repository.
+    Create a new branch (git checkout -b feature-branch).
+    Make your changes and commit them (git commit -m 'Add some feature').
+    Push to the branch (git push origin feature-branch).
+    Create a new Pull Request.
 
 ### **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
