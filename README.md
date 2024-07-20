@@ -1,33 +1,31 @@
 # Random-choice-Picker-using-javascript
 
 ### **Description**
-        The Random Choice Picker allows users to input a list of choices, and it randomly selects one of the choices when triggered. This project is ideal for those who are beginning to learn JavaScript and want to understand basic DOM manipulation and event handling.
+The Random Choice Picker allows users to input a list of choices, and it randomly selects one of the choices when triggered. 
+This project is ideal for those who are beginning to learn JavaScript and want to understand basic DOM manipulation and event handling.
 
 ### **Features**
 Add multiple choices separated by commas.
 Randomly select one choice from the list.
 Simple and user-friendly interface.
-Demo
-[Include a link to a live demo or a GIF/video demonstrating the project]
 
 ### **Installation**
 To run this project locally, follow these steps:
 
 #### Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/PrashantPKP/Random-choice-Picker-using-javascript.git
-Navigate to the project directory:
+```bash
+git clone https://github.com/PrashantPKP/Random-choice-Picker-using-javascript.git```
+
+### Navigate to the project directory:
 
 ```bash
-cd Random-choice-Picker-using-javascript
+cd Random-choice-Picker-using-javascript```
 
-Open index.html in your browser:
+### Open index.html in your browser:
 
-bash
-Copy code
-open index.html
+```bash
+open index.html```
 
 ### **Usage**
 Open the project in your browser.
@@ -50,6 +48,6 @@ Create a new Pull Request.
 ### **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### **Acknowledgments**
+**Acknowledgments**
 Inspiration from various random choice picker tutorials online.
 Thanks to all contributors and reviewers.
