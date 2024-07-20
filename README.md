@@ -15,17 +15,17 @@ To run this project locally, follow these steps:
 #### Clone the repository:
 
 ```bash
-git clone https://github.com/PrashantPKP/Random-choice-Picker-using-javascript.git```
+git clone https://github.com/PrashantPKP/Random-choice-Picker-using-javascript.git
 
 ### Navigate to the project directory:
 
 ```bash
-cd Random-choice-Picker-using-javascript```
+cd Random-choice-Picker-using-javascript
 
 ### Open index.html in your browser:
 
 ```bash
-open index.html```
+open index.html
 
 ### **Usage**
 Open the project in your browser.
