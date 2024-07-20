@@ -39,14 +39,14 @@ Click the "Pick a Choice" button to randomly select one of the choices.
 **HTML:** The basic structure of the webpage, including an input field and a button.
 **CSS:** Basic styling to make the application look clean and simple.
 **JavaScript:** Handles the logic for picking a random choice and updating the DOM.
+
 Contributing
 If you would like to contribute to this project, please follow these steps:
-
-    Fork the repository.
-    Create a new branch (git checkout -b feature-branch).
-    Make your changes and commit them (git commit -m 'Add some feature').
-    Push to the branch (git push origin feature-branch).
-    Create a new Pull Request.
+Fork the repository.
+1. Create a new branch (git checkout -b feature-branch).
+2. Make your changes and commit them (git commit -m 'Add some feature').
+3. Push to the branch (git push origin feature-branch).
+4. Create a new Pull Request.
 
 ### **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
