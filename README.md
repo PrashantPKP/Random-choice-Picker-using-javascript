@@ -33,7 +33,8 @@ open index.html
 ### **Usage**
 Open the project in your browser.  
 Enter your choices in the input field, separated by commas.  
-Click the "Pick a Choice" button to randomly select one of the choices.  
+Click the "Pick a Choice" button to randomly select one of the choices.
+It pick one choice for us, when we are confuse in between many choices.
 
 ### **Code Explanation**
 **HTML:** The basic structure of the webpage, including an input field and a button.  
