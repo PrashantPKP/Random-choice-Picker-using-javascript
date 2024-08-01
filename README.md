@@ -53,5 +53,5 @@ Fork the repository.
 This project is licensed under the MIT License - see the LICENSE file for details.  
 
 #### **Acknowledgments**
--Inspiration from various random choice picker tutorials online.  
-Thanks to all contributors and reviewers.
+- Inspiration from various random choice picker tutorials online.  
+- Thanks to all contributors and reviewers.
