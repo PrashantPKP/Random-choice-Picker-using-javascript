@@ -10,7 +10,7 @@ Randomly select one choice from the list.
 Simple and user-friendly interface.  
 
 ### **Installation**
-To run this project locally, follow these steps:
+To run this project locally, follow these  steps:
 
 #### Clone the repository:
 
@@ -54,4 +54,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 #### **Acknowledgments**
 - Inspiration from various random choice picker tutorials online.  
-- Thanks to all contributors and reviewers.
+- Thanks to all contributors and reviewers. 
