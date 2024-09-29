@@ -10,7 +10,7 @@ Randomly select one choice from the list.
 Simple and user-friendly interface.  
 
 ### **Installation**
-To run this project locally, follow these  steps:
+To run this project locally, follow these steps:
 
 #### Clone the repository:
 
