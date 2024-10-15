@@ -1,6 +1,6 @@
 # Random-choice-Picker-using-javascript
 
-### **Description - **
+### Description -
 The Random Choice Picker allows users to input a list of choices, and it randomly selects one of the choices when triggered,   
 This project is ideal for those who are beginning to learn JavaScript and want to understand basic DOM manipulation and event handling.
 
