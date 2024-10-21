@@ -30,7 +30,7 @@ cd Random-choice-Picker-using-javascript
 open index.html
 ```
 
-### **Usage**
+### **Usage**:
 Open the project in your browser.  
 Enter your choices in the input field, separated by commas.  
 Click the "Pick a Choice" button to randomly select one of the choices.
