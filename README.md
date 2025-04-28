@@ -5,8 +5,8 @@ The Random Choice Picker allows users to input a list of choices, and it randoml
 This project is ideal for those who are beginning to learn JavaScript and want to understand basic DOM manipulation and event handling.
 
 ### **Features**
-Add multiple choices separated by commas.  
-Randomly select one choice from the list.  
+Add multiple choices separated by commas.   
+Randomly select one choice from the list.   
 Simple and user-friendly interface.  
 
 ### **Installation**
